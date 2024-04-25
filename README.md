@@ -1,5 +1,9 @@
 ### Mirte applicatie gebouwd met Laravel, Vue.js, Tailwind.css en Inertia.js met Stripe 
 
+
+#### Waarom?
+
+Voor een project met de TU Delft moest ik, samen met een team van twee andere personen, een website maken voor de IamMirte-webshop. Dit non-profitinitiatief heeft als doel wetenschap en techniek te verspreiden onder jongeren door middel van de MIRTE-robot. Onze opdracht omvatte het ontwikkelen van een e-commerce platform waarop MIRTE-robotpakketten en bijbehorend lesmateriaal beschikbaar zouden zijn voor scholen en particulieren. De winst die voortkomt uit de verkoop van deze pakketten wordt gebruikt om workshops te organiseren voor scholen in kansarme gebieden. We moesten ervoor zorgen dat de website functionaliteiten bevatte zoals het bestellen van de robotpakketten, ondersteuning voor iDeal-betalingen, meertalige ondersteuning, informatie over workshops en het benadrukken van een inclusieve leveranciersketen in overeenstemming met de ANBI-eisen. Ons doel was een gebruiksvriendelijke en toegankelijke webshop te creëren die de missie van IamMirte ondersteunt en jongeren aanmoedigt om zich te interesseren voor wetenschap en techniek.
 #### Installatie
 
 Zorg ervoor dat je omgeving correct is ingesteld. Je hebt MySQL, PHP 8.1, Node.js en Composer nodig.
