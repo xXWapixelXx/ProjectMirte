@@ -17,7 +17,8 @@ Zorg ervoor dat je omgeving correct is ingesteld. Je hebt MySQL, PHP 8.1, Node.j
 9. Open een nieuwe terminal en navigeer naar de hoofdmap van het project
    Voer `npm install` uit
 10. Voer `npm run dev` uit om de vite-server te starten voor de Laravel-frontend
-11. Voor de Stripe API-sleutel, ga naar het .env-bestand en vervang de api-sleutel voor deze variabele ```STRIPE_KEY="VERVANG HIER MET JE STRIP API-SLEUTEL"```
+11. Voer `php artisan serve` uit om de Laravel server te starten en dan is je default url `http://localhost:8000`
+12. Voor de Stripe API-sleutel, ga naar het .env-bestand en vervang de api-sleutel voor deze variabele ```STRIPE_KEY="VERVANG HIER MET JE STRIP API-SLEUTEL"```
 
 ### IamMirte Webshop Casus 4
 De casus zit ook in het Project.
