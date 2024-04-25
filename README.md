@@ -1,4 +1,4 @@
-# IamMirte Webshop
+# IamMirte Webshop Casus 4
 
 Dit is de officiële repository voor de IamMirte-webshop, een non-profitinitiatief van de TU Delft om wetenschap en techniek te verspreiden onder jongeren via de MIRTE-robot. 
 
